@@ -1,9 +1,5 @@
 # Customised-Virtual-File-System
 
-<div align = "center">
-  <h1>CUSTOMIZED VIRTUAL FILE SYSTEM</h1>
-</div>
-
 This project is used to emulate all functionalities provided by File systems.
 
 ### PLATFORM REQUIRED :
