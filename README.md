@@ -17,7 +17,7 @@ Intel 32 bit Processor or Higher.
 Command Line interface.
 ```
 
-### TCHNOLOGY USED :
+### TECHNOLOGY USED :
 ```
 System Programming using C.
 ```
